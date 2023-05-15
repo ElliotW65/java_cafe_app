@@ -1,0 +1,96 @@
+May 15, 2023 11:42:32 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:32 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:32 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:33 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:36 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:36 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:36 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:37 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:37 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:38 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:41 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:41 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:42 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:42 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:43 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:42:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:47 AM model.CafeModel getNextOrder
+INFO: No more orders
+May 15, 2023 11:42:47 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:47 AM model.CafeModel getNextOrder
+INFO: No more orders
+May 15, 2023 11:42:51 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:42:51 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:31 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:32 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:32 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:33 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:36 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:36 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:37 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:37 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:38 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:38 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:41 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:41 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:42 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:42 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:43 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:46 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:47 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:43:47 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:43:48 AM model.CafeModel getNextOrder
+INFO: No more orders
+May 15, 2023 11:46:50 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:46:51 AM model.CafeModel getNextOrder
+INFO: Next order.
+May 15, 2023 11:46:51 AM model.SharedObject getNew
+INFO: New order to be processed.
+May 15, 2023 11:46:52 AM model.CafeModel getNextOrder
+INFO: Next order.
