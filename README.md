@@ -2,7 +2,7 @@
 
 This is a multi-threaded application that manages a queue of orders at a cafe.
 
-When the app is started a queue of order is read into the application and servers begin fulfilling the orders. Each server is run on a different thread allowing the application to scale and handle a large number of orders simultaneously.
+When the app is started a queue of orders is read into the application and servers begin fulfilling the orders. Each server is run on a different thread allowing the application to scale and handle a large number of orders simultaneously.
 
 To manage the multiple threads, the observer-subscriber design pattern is used where orders are pushed to a shared object and are picked up by server threads when they complete their previous order.
 
